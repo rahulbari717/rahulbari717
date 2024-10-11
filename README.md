@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi there! I'm Rahul Bari
 
-<!--
-**rahulbari717/rahulbari717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Embedded Systems Developer | IoT Enthusiast | Firmware Wizard
 
-Here are some ideas to get you started:
+🚀 With 2 years of hands-on experience in the embedded systems realm:
+   - ESP32/ESP8266 Expert 🎯
+   - STM32 Developer 💻
+   - FreeRTOS Implementer ⚡
+   - AWS IoT Integration Specialist ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 PG Diploma in IoT & Embedded Programming from COEP, Pune
+
+💡 What I do:
+   - Optimize firmware for performance and reliability
+   - Design OTA update mechanisms
+   - Implement complex sensor calibrations
+   - Debug like a detective 🔍
+   - Turn coffee into code ☕
+
+🛠️ Tech Stack:
+   - Embedded C | FreeRTOS | MQTT
+   - UART | SPI | I2C
+   - Git | AWS IoT | ESP-IDF
+
+🌱 Currently exploring advanced IoT architectures and edge computing
