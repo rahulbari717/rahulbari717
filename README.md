@@ -85,10 +85,29 @@ Embedded Developer with **2 years of experience** specializing in firmware devel
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bari-embeddeddeveloper/)
-
-*Thanks for visiting my profile! Don't forget to ⭐ star repositories if you find interesting!*
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulbari717@gmail.com)
 
 </div>
+
+---
+
+### 🙏 Thank You!
+
+Thank you for visiting my profile.  
+If you find my work helpful or interesting, feel free to ⭐ star the repositories.  
+I truly appreciate your support!
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulbari717&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 📊 GitHub Statistics
 
