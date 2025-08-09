@@ -1,76 +1,69 @@
-👋 Hi there! I'm Rahul Bari
+# 👋 Hi there! I'm Rahul Bari
 
 🚀 Embedded Systems Developer | 🌐 IoT Enthusiast | ⚡ Firmware Innovation Specialist
 
 -------------------------------------------------------------------------------------------------------------
 
-🎯 About Me
+## 🎯 About Me
 
 Embedded Developer with **2+ years of experience** specializing in firmware development and microcontrollers (ESP8266, ESP32, STM32). Proven track record in R&D projects, optimizing embedded systems for AWS integration and OTA updates. Demonstrated expertise in RTOS, communication protocols, and IoT development. Hold a **PG Diploma in IoT & Embedded Programming from COEP**, dedicated to driving innovation in embedded and IoT systems.
 
 -------------------------------------------------------------------------------------------------------------
 
-🛠 My Skill Set
-Firmware Development – Robust and optimized firmware for ESP32, ESP8266, and STM32.
+## 🛠 My Skill Set
 
-Embedded Systems Design – Reliable and maintainable IoT architectures.
+* **Firmware Development** – Robust and optimized firmware for ESP32, ESP8266, and STM32.
+* **Embedded Systems Design** – Reliable and maintainable IoT architectures.
+* **Real-Time Systems** – FreeRTOS for mission-critical applications.
+* **Problem Solving & Debugging** – Advanced diagnostics for embedded bugs, connectivity, and cloud integration.
+* **Technical Documentation** – Clear hardware and software documentation.
 
-Real-Time Systems – FreeRTOS for mission-critical applications.
+---
 
-Problem Solving & Debugging – Advanced diagnostics for embedded bugs, connectivity, and cloud integration.
+## 🔧 Technical Skills
+- **Wired Protocols:** SPI, I²C, UART/USART
+- **Wireless Protocols:** Wi-Fi, BLE, MQTT
+- **RTOS:** FreeRTOS
+- **Microcontrollers:** STM32F4, ESP32 Pico, ESP8266
+- **Development Tools:** ESP-IDF, STM32CubeIDE, Git, Logic Analyzer, DMM
+- **Sensors:** MPU-6050, moisture sensors, gas leak detection
+- **Languages:** C
 
-Technical Documentation – Clear hardware and software documentation.
+---
 
-Cloud Integration – AWS IoT Core, S3, ThingSpeak, secure OTA updates.
+## 📂 My Personal Learning & Projects
+Below is a collection of my embedded systems, firmware, and C programming projects. Click on any project title to explore its code, documentation, and implementation details.
 
-System Optimization – Sensor calibration (0.01 accuracy), low-power firmware.
+### 🔬 Learning Repositories
 
-🔧 Technical Skills
-Wired Protocols: SPI, I²C, UART/USART
-Wireless Protocols: Wi-Fi, BLE, MQTT
-RTOS: FreeRTOS
-Microcontrollers: STM32F4, ESP32 Pico, ESP8266, PIC
-Development Tools: ESP-IDF, STM32CubeIDE, Git, AWS IoT Core, Logic Analyzer, Oscilloscope
-Sensors: MPU-6050, moisture sensors, gas leak detection
-Languages: Embedded C (primary), Python (automation/testing)
+**[Embedded C Practice](https://github.com/rahulbari717/embedded-c-practice) 🔧**  
+Embedded C projects for STM32 microcontrollers and FreeRTOS.
 
-📂 Projects
-🔬 Learning & Research
-Embedded C Practice – STM32 + FreeRTOS firmware, custom drivers, 35+ board-level projects.
+**[C/C++ DSA Learning Journey](https://github.com/rahulbari717/C-DSA) 🚀**  
+A simple roadmap to master C programming and Data Structures & Algorithms using C++
 
-C & DSA – Core C programming & data structures.
+---
 
-ESP32 OTA Test (WIP) – Secure firmware updates over-the-air.
+### 💻 C Personal Projects work 
 
-ESP32 FreeRTOS + Zephyr (Zephyr pending) – Real-time embedded programming for ESP32.
+**[Rock Paper Scissors Game](https://github.com/rahulbari717/Scisso_Paper_Rock_game) 🎮**  
+An interactive Rock–Paper–Scissors terminal game written in C, designed to demonstrate modular programming, simple UI logic, and testable architecture.
 
-💻 Practical Implementations
-User Management System – Modular CLI-based user management in C.
+**[User Management System](https://github.com/rahulbari717/User_management_system) 👥**  
+A modular User Management System written in C. This terminal-based application demonstrates clean code practices, interactive CLI handling, and test-driven design—all written with professional-grade architecture.
 
-Simple Calculator – Lightweight CLI calculator with safe error handling.
+**[Simple Calculator](https://github.com/rahulbari717/Simple_calculator) 🧮**  
+A professional-grade command-line calculator built in C — lightweight, fast, and fun to use!
 
-Scisso Paper Rock Game – Modular Rock–Paper–Scissors game in C.
+---
 
-RAHUverse (WIP) – C-based astrology insights generator.
+## 🎯 Core Competencies
+- **Project Leadership** – Led cross-functional teams, mentored interns.
+- **Quality Assurance** – Comprehensive testing protocols for stability.
+- **Innovation Focus** – Adapting to evolving IoT technologies.
+- **Communication** – Effective technical writing and collaboration.
 
-🎯 Core Competencies
-Project Leadership – Led cross-functional teams, mentored interns.
-
-Quality Assurance – Comprehensive testing protocols for stability.
-
-Innovation Focus – Adapting to evolving IoT technologies.
-
-Communication – Effective technical writing and collaboration.
-
-🚀 Featured Project – College Work
-🌿 Automated Irrigation System using IoT
-Designed IoT-based irrigation for water optimization.
-
-Developed using NodeMCU + moisture sensors.
-
-Integrated with ThingSpeak for remote monitoring.
-
-Provided actionable water consumption analytics.
+---
 
 ## 🚀 Featured Project (in college work) 
 
@@ -81,81 +74,6 @@ Provided actionable water consumption analytics.
 • Delivered actionable insights into water consumption patterns
 
 ---
-
-## 📂 My GitHub Projects
-Below is a collection of my embedded systems, firmware, and C programming projects. Click on any project title to explore its code, documentation, and implementation details.
-
----
-
-🔬 Learning & Research Repositories
-Embedded C Practice
-Embedded C projects for STM32 microcontrollers and FreeRTOS.
-Contents:
-
-🔌 device_drivers/ – Custom peripheral drivers (GPIO, UART, I2C, SPI, ADC, DMA)
-
-🎯 Target/ – Platform-specific STM32F4xx implementations (35+ projects)
-
-⚡ FreeRTOS/ – Real-time OS demos and task management
-
-📚 ref/ – Documentation, datasheets, and schematics
-Tech Stack: STM32F446RE, HAL/LL Drivers, FreeRTOS, Embedded C
-Highlights:
-
-Clock configuration (HSI/HSE, PLL)
-
-LED PWM, UART comms, timers, ADC with DMA
-
-FreeRTOS task scheduling and real-time applications
-
-C & DSA Learning Journey
-A structured journey to mastering C programming and core Data Structures & Algorithms.
-Includes: Arrays, Linked Lists, Stacks, Queues, Trees, Sorting, and Searching algorithms.
-
-ESP32 OTA Test (Work in Progress)
-Planned implementation of OTA firmware updates for ESP32 with secure delivery.
-
-ESP32 FreeRTOS & Zephyr OS Learning (Zephyr OS pending)
-FreeRTOS and Zephyr OS programming examples for ESP32, focusing on real-time system development.
-
-
-💻 Practical Implementations
-User Management System
-A modular, CLI-based system for user registration and authentication in C.
-Features:
-
-📝 User creation and secure password input
-
-🔐 Login authentication with validation
-
-🧱 Modular .c/.h structure with unit tests
-
-🔧 Makefile for build, run, and clean targets
-
-Simple Calculator
-Lightweight, CLI calculator with professional-grade modular design.
-Features:
-
-➕ Supports basic arithmetic, modulus, and power functions
-
-✅ Input validation and safe error handling
-
-🧩 Easy to extend, written in pure C
-
-Scisso Paper Rock Game
-Interactive terminal game demonstrating modular programming and basic game logic.
-Features:
-
-🎮 Classic Rock–Paper–Scissors gameplay
-
-🧩 Modular code with unit tests
-
-🛠️ Cross-platform with Makefile support
-
-RAHUverse (In Progress)
-Lightweight C program for generating astrological insights based on birth details.
-
-
 
 ## 🤝 Let's Connect!
 
